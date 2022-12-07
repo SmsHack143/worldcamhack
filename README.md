@@ -25,4 +25,6 @@ pip2 install mechanize
 git clone https://github.com/SmsHack143/worldcamhack.git
 
 
+cd worldcamhack
+
 python smscamhack.py
