@@ -1,4 +1,4 @@
-SMS-Hack love afg
+SMS-Hack love غني
 
 
 که هر مشکل مو پیښ کړ مونږ پوری اړه نلری
